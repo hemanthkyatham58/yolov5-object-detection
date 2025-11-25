@@ -15,6 +15,7 @@ Object Detection system for Self-Driving Cars using YOLOv5. Trained YOLOv5s, YOL
   - Dataset visualization (first 10 images)
   - Ground truth bounding boxes
   - Prediction visualization on images and videos
+Datasets used in the project - https://drive.google.com/drive/folders/1WijzvSrQ8mVU8Szar6LW8Ei1kA7tZr_5
 
 ## Project Workflow
 1. **Dataset Preparation**
